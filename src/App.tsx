@@ -454,7 +454,7 @@ export default function App() {
             color: THEME.textSecondary,
             marginBottom: '3rem'
           }}>
-            Policy and data analyst and researcher with a proven track record of driving impact across Pakistan's national development landscape.
+            Policy analyst and Power BI expert passionate about academic research and converting data into actionable dashboards that drive evidence based policy.
           </p>
 
           <div style={{ display: 'flex', gap: '1.5rem', flexWrap: 'wrap' }}>
@@ -844,7 +844,8 @@ export default function App() {
                 degree: "Bachelor of Science (BS)",
                 special: "Public Administration",
                 school: "Quaid-i-Azam University, Islamabad",
-                period: "2020 – 2024"
+                period: "2020 – 2024",
+                thesis: "Major Factors Contributing to the Failure of Digitalization in Public Sector Organizations: An Analysis of the Federal Government of Pakistan"
               }
             ].map((edu, idx) => (
               <div 
@@ -1187,7 +1188,7 @@ export default function App() {
         </div>
         
         <div style={{ borderTop: `1px solid ${THEME.border}`, paddingTop: '2rem', fontSize: '0.8rem', color: THEME.textSecondary }}>
-          © 2025 Muhammad Ijaz. All rights reserved.
+          © 2026 Muhammad Ijaz. All rights reserved.
         </div>
       </footer>
     </div>
